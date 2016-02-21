@@ -1,0 +1,44 @@
+﻿Der Buildvorgang wurde am 21.02.2016 19:29:08 gestartet.
+     1>Projekt "F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\Voxel_SDL_OpenGL\Voxel_SDL_OpenGL.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Prog\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\_Depts\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt glescraft.cpp
+         glescraft.cpp
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(228): warning C4305: "Argument": Verkürzung von "double" in "float"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(228): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(229): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(264): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(679): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(681): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(683): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(685): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(687): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(689): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(691): warning C4244: "Argument": Konvertierung von "time_t" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(754): warning C4305: "Argument": Verkürzung von "double" in "GLclampf"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(801): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(802): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(803): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(813): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(814): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(815): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(835): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(836): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(837): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(885): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(885): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(974): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(992): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(998): warning C4305: "+=": Verkürzung von "double" in "float"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(1000): warning C4305: "-=": Verkürzung von "double" in "float"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(1002): warning C4305: "=": Verkürzung von "double" in "float"
+     1>f:\programm\vs 2015\voxel_sdl_opengl\voxel_sdl_opengl\glescraft.cpp(1004): warning C4305: "=": Verkürzung von "double" in "float"
+       Link:
+         D:\Prog\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\Debug\Voxel_SDL_OpenGL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\_Depts\lib" OpenGL32.lib glew32.lib SDL2.lib SDl2main.lib d3d10.lib d3dx10d.lib d3d9.lib d3dx9.lib dxerr.lib dxguid.lib dinput8.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\Debug\Voxel_SDL_OpenGL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\Debug\Voxel_SDL_OpenGL.lib" /MACHINE:X86 Debug\glescraft.obj
+         Debug\shader_utils.obj
+         Debug\textures.obj
+         Voxel_SDL_OpenGL.vcxproj -> F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\Debug\Voxel_SDL_OpenGL.exe
+     1>Die Erstellung von Projekt "F:\PROGRAMM\VS 2015\Voxel_SDL_OpenGL\Voxel_SDL_OpenGL\Voxel_SDL_OpenGL.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:00.65
